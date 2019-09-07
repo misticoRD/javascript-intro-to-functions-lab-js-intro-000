@@ -5,5 +5,3 @@ function shout(string) {
 let whisper = (string) => string.toLowerCase();
 
 let logShout = (string) => console.log(string.toUpperCase());
-
-
