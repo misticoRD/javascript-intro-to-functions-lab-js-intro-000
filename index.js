@@ -4,4 +4,4 @@ function shout(string) {
 
 let whisper = (string) => string.toLowerCase();
 
-logShout = (string) => string.toUpperCase();
+logShout = (string) => console.log(string.toUpperCase());
