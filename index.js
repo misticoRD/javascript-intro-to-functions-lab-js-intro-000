@@ -3,3 +3,5 @@ function shout(string) {
 }
 
 let whisper = (string) => string.toLowerCase();
+
+logShout = (string) => string.toUpperCase();
